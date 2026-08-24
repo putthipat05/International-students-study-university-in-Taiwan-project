@@ -7,5 +7,5 @@ Analyzing the Growth Trends of International Students in Taiwan.
 - According number of international students from 2021 to 2025 from [Study in Taiwan](https://www.studyintaiwan.org/why-taiwan/key-numbers/chart3#table)
 
 ## Tools
-- SQL for data analysis - View [SQL script](https://github.com/putthipat05/International-students-study-university-in-Taiwan-project/blob/main/SQLquery1.sql)
+- SQL for data analysis - View [SQL script](SQL)
 - PowerBI for visualisation 
