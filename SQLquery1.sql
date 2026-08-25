@@ -59,3 +59,37 @@ from top_region
 where faculty_rank <= 3
 order by region asc,
          faculty_rank asc;
+
+--3 - Market Concentration & Risk Diversification Analysis--
+with country_faculty_summary as (
+select
+c.faculty_name,
+c.faculty_id,
+a.country_name ,
+sum(b.student_count) as country_students,
+dense_rank() over(partition by c.faculty_id order by sum(b.student_count) desc) as country_rank,
+sum(sum(b.student_count)) over(partition by c.faculty_id) as faculty_total_students
+from dim_countries as a
+inner join fact_student_enrollments as b
+on a.country_id = b.country_id
+inner join dim_faculties as c
+on b.faculty_id = c.faculty_id
+where year = 2025
+group by c.faculty_id,
+		 c.faculty_name, 
+		 a.country_id, 
+         a.country_name
+)
+
+select
+faculty_name,
+country_name,
+country_students,
+faculty_total_students,
+round(sum(country_students / faculty_total_students * 100),2) as concentration_pct, 
+'High_Concentration_risk' as Risk_status
+from country_faculty_summary
+where country_rank = 1 and
+(country_students * 100) / faculty_total_students  > 40
+group by faculty_name, country_name
+order by concentration_pct desc; 
