@@ -1,11 +1,10 @@
 # Here is my business insight
 
-### 1. Supplier Delay Analysis
+**Business task**
+### 1. Analyze YoY growth & Market momentum
 
 <img width="348" height="207" alt="supplier_delay" src="https://github.com/user-attachments/assets/6fecfe35-3284-4399-b928-9bbc1f04b4ea" />
 
-**Business task**
-- Analyze YoY growth & Market momentum
 
 **My insight on this problem**
 I started by breaking down the data by country and year, comparing current figures against the previous year to show the gap. I also added YoY growth rates so we can easily see the direction we're heading in.
