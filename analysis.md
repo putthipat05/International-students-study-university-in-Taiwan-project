@@ -3,7 +3,8 @@
 **Business task**
 ### 1. Analyze YoY growth & Market momentum
 
-<img width="348" height="207" alt="supplier_delay" src="https://github.com/user-attachments/assets/6fecfe35-3284-4399-b928-9bbc1f04b4ea" />
+<img width="482" height="215" alt="Screenshot 2026-09-05 at 4 40 37 PM" src="https://github.com/user-attachments/assets/77cbd437-abbc-4eb2-9d5d-e8cd13edc5f7" />
+
 
 
 **My insight on this problem**
