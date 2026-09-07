@@ -26,12 +26,27 @@ I started by breaking down the numbers by region and faculty. The data clearly s
 
 What stands out is the huge gap between the top majors and the rest. Engineering has 465 students, but by the time we reach the 4th-ranked faculty—Information and Communication—the count drops by more than half to 226. To put this in perspective: the top 3 majors combined have 1,272 students, whereas the other 7 majors together only reach 628.
 
-To wrap up, if a university doesn't offer these top 3 programs, it will likely lose a large share of prospective students to other institutions that do."
+To wrap up, if a university doesn't offer these top 3 programs, it will likely lose a large share of prospective students to other institutions that do.
 
 
-### 4.Market Concentration & Risk Diversification Analysis
+### 3.Market Concentration & Risk Diversification Analysis
 
 <img width="749" height="224" alt="Screenshot 2026-09-07 at 3 20 04 PM" src="https://github.com/user-attachments/assets/ed5229bd-956e-45bd-b809-b14ecbf617d5" />
+
+
+**My insight on this problem
+Looking at the data, Vietnamese students remain the primary demographic for international enrollment in Taiwan, representing the highest concentration group. For institutions seeking to offset recent enrollment declines and restore growth, establishing strategic MOU programs with Vietnamese universities is a high-leverage initiative. This partnership would enhance brand visibility in Vietnam while creating a mutually beneficial exchange framework for Taiwanese students looking to gain cross-border experience.
+
+### 4.moving average & time specification
+
+
+<img width="212" height="118" alt="Screenshot 2026-09-07 at 3 49 53 PM" src="https://github.com/user-attachments/assets/d0b0f2a4-01e6-4c39-a49f-385fe6b85886" />
+
+Over the past five years, enrollment in Engineering has shown remarkable momentum, doubling from 266 to 522 students with a consistent YoY growth rate exceeding 10%. Today, Engineering is the primary choice for international students in Taiwan.
+
+This surge is driven by two key industry factors: Taiwan’s global dominance in semiconductor manufacturing and the presence of tech giants like TSMC and ASML, which offer abundant career opportunities. Given the global rise of AI, establishing or expanding an Engineering faculty is a crucial strategic move. Universities with strong engineering offerings will not only attract top international talent but also sustain long-term enrollment growth.
+
+
 
 
 
