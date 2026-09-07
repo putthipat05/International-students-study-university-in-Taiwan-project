@@ -28,3 +28,11 @@ What stands out is the huge gap between the top majors and the rest. Engineering
 
 To wrap up, if a university doesn't offer these top 3 programs, it will likely lose a large share of prospective students to other institutions that do."
 
+
+### 4.Market Concentration & Risk Diversification Analysis
+
+<img width="749" height="224" alt="Screenshot 2026-09-07 at 3 20 04 PM" src="https://github.com/user-attachments/assets/ed5229bd-956e-45bd-b809-b14ecbf617d5" />
+
+
+
+
