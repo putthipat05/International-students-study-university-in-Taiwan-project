@@ -21,7 +21,7 @@ On the other hand, Vietnam had been growing consistently year after year, hittin
 
 
 
-**My insight on this problem
+**My insight on this problem**
 I started by breaking down the numbers by region and faculty. The data clearly shows that SEA is the most dominant region. Looking at the majors, Engineering takes first place, followed by Hospitality and Business.
 
 What stands out is the huge gap between the top majors and the rest. Engineering has 465 students, but by the time we reach the 4th-ranked faculty—Information and Communication—the count drops by more than half to 226. To put this in perspective: the top 3 majors combined have 1,272 students, whereas the other 7 majors together only reach 628.
@@ -34,7 +34,7 @@ To wrap up, if a university doesn't offer these top 3 programs, it will likely l
 <img width="749" height="224" alt="Screenshot 2026-09-07 at 3 20 04 PM" src="https://github.com/user-attachments/assets/ed5229bd-956e-45bd-b809-b14ecbf617d5" />
 
 
-**My insight on this problem
+**My insight on this problem**
 Looking at the data, Vietnamese students remain the primary demographic for international enrollment in Taiwan, representing the highest concentration group. For institutions seeking to offset recent enrollment declines and restore growth, establishing strategic MOU programs with Vietnamese universities is a high-leverage initiative. This partnership would enhance brand visibility in Vietnam while creating a mutually beneficial exchange framework for Taiwanese students looking to gain cross-border experience.
 
 ### 4.moving average & time specification
@@ -42,6 +42,7 @@ Looking at the data, Vietnamese students remain the primary demographic for inte
 
 <img width="212" height="118" alt="Screenshot 2026-09-07 at 3 49 53 PM" src="https://github.com/user-attachments/assets/d0b0f2a4-01e6-4c39-a49f-385fe6b85886" />
 
+**My insight on this problem**
 Over the past five years, enrollment in Engineering has shown remarkable momentum, doubling from 266 to 522 students with a consistent YoY growth rate exceeding 10%. Today, Engineering is the primary choice for international students in Taiwan.
 
 This surge is driven by two key industry factors: Taiwan’s global dominance in semiconductor manufacturing and the presence of tech giants like TSMC and ASML, which offer abundant career opportunities. Given the global rise of AI, establishing or expanding an Engineering faculty is a crucial strategic move. Universities with strong engineering offerings will not only attract top international talent but also sustain long-term enrollment growth.
@@ -50,7 +51,7 @@ This surge is driven by two key industry factors: Taiwan’s global dominance in
 
 <img width="523" height="227" alt="Screenshot 2026-09-07 at 4 42 28 PM" src="https://github.com/user-attachments/assets/c916ee5c-651a-42c9-a193-770992e8e3c1" />
 
-
+**My insight on this problem**
 If we look at the 2025 figures, there’s a clear divide between our Thai and Vietnamese student bases. Vietnam keeps growing every year, while Thailand's enrollment has been dropping continuously.
 
 Why is Thailand falling behind? A major reason is heavy competition from China, which is pouring resources into scholarships and offering a huge variety of programs to Thai students.
