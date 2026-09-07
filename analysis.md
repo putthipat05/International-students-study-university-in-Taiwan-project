@@ -46,6 +46,18 @@ Over the past five years, enrollment in Engineering has shown remarkable momentu
 
 This surge is driven by two key industry factors: Taiwan’s global dominance in semiconductor manufacturing and the presence of tech giants like TSMC and ASML, which offer abundant career opportunities. Given the global rise of AI, establishing or expanding an Engineering faculty is a crucial strategic move. Universities with strong engineering offerings will not only attract top international talent but also sustain long-term enrollment growth.
 
+### 5.Executive cross-tabulation & data pivoting
+
+<img width="523" height="227" alt="Screenshot 2026-09-07 at 4 42 28 PM" src="https://github.com/user-attachments/assets/c916ee5c-651a-42c9-a193-770992e8e3c1" />
+
+
+If we look at the 2025 figures, there’s a clear divide between our Thai and Vietnamese student bases. Vietnam keeps growing every year, while Thailand's enrollment has been dropping continuously.
+
+Why is Thailand falling behind? A major reason is heavy competition from China, which is pouring resources into scholarships and offering a huge variety of programs to Thai students.
+
+To tackle this, we need to do two things. First, step up our recruitment in Thailand—run targeted ads, highlight our high graduate job placement rates, and build solid MOUs. Second, change our positioning against China. We might not match their scholarship volume, but we can pitch Taiwan’s unique strengths: our global leadership in semiconductors, strong career prospects in tech, and an open, international settingใ
+
+
 
 
 
